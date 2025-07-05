@@ -1,0 +1,25 @@
+Count the number of Movies vs TV Shows.
+
+Find the most common rating for Movies and TV Shows.
+
+List all Movies released in a specific year (e.g., 2020).
+
+Find the top 5 countries with the most content on Netflix.
+
+Identify the longest Movie.
+
+Find all Movies/TV Shows directed by 'Rajiv Chilaka'.
+
+List all TV Shows with more than 5 seasons.
+
+Count the number of content items in each genre.
+
+List all Movies that are Documentaries.
+
+Find all content without a director.
+
+Find how many Movies actor 'Salman Khan' appeared in during the last 10 years.
+
+Find the top 10 actors who have appeared in the highest number of Movies produced in India.
+
+Categorize the content based on the presence of the keywords 'kill' and 'violence' in the description field. Label them as 'Bad' or 'Good', and count how many items fall into each category.
