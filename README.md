@@ -23,3 +23,6 @@ This project analyzes Netflix’s content dataset using SQL and visualizes the r
 
 ![NETFLIX_DASHBOARD](https://github.com/user-attachments/assets/b5b1fbee-f51a-4b05-9e9e-bd439cdfc942)
 
+
+
+NOTE:ALL THE DATA IN EXCEL FILE NOT MATCH WITH REAL DATA.
